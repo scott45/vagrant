@@ -1,5 +1,6 @@
 # vagrant
 
+```
 Vagrant.configure("2") do |config|
     config.vm.define "nginx" do |nginx|
       nginx.vm.box = "ubuntu/trusty64"
@@ -29,3 +30,4 @@ Vagrant.configure("2") do |config|
         end
       end
   end
+  ```
