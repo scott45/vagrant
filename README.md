@@ -1,5 +1,6 @@
 # Vagrant
 
+
 ```
 Vagrant.configure("2") do |config|
     config.vm.define "nginx" do |nginx|
