@@ -1,5 +1,6 @@
 # Vagrant
 
+Example vagrant config
 
 ```
 Vagrant.configure("2") do |config|
